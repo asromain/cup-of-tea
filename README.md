@@ -1,3 +1,3 @@
-# Cup of tea ☕️
+# My cup of tea ☕️
 
-This is a $TEA crypto project
+Wanna test my cup of tea ? This is a simple $TEA crypto project.
